@@ -18,7 +18,7 @@ To compile the LESS, run `make`.
 
 ### Syncing with Solbit
 
-Budgie Site Styling leverages [Solbit](https://github.com/solus-project/solbit) to reduce redundancy across the multitude of Solus Project brand assets. To ensure Budgie Site Styling remains in sync with Solbit, 
+Budgie Site Styling leverages [Solbit](https://github.com/getsolus/solbit) to reduce redundancy across the multitude of Solus Project brand assets. To ensure Budgie Site Styling remains in sync with Solbit, 
 use `make sync`. Changes in Solbit are compiled into the Budgie Site Styling stylesheet.
 
 ## Styling
